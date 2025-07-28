@@ -57,7 +57,7 @@
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadSarimUmer&repo=JS_PRACTICE&theme=dark" alt="JavaScript Practice" />
 </a>
 </div>
-<p align="center">A collection of JavaScript exercises and projects for skill development. Includes various algorithms, DOM manipulation, and modern JS concepts.</p>
+<p align="center">A collection of JavaScript exercises and projects for skill development.</p>
 </td>
 </tr>
 
@@ -69,7 +69,7 @@
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadSarimUmer&repo=coin_app&theme=dark" alt="Coin App" />
 </a>
 </div>
-<p align="center">A C++ application for coin-related operations. Features efficient algorithms and data structures for currency management and calculations.</p>
+<p align="center">A Flutter/Dart application for coin-related operations. </p>
 </td>
 
 <td width="50%">
@@ -79,7 +79,7 @@
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadSarimUmer&repo=URL_SHORTENER_NODEJS&theme=dark" alt="URL Shortener" />
 </a>
 </div>
-<p align="center">A Node.js-based URL shortener service with EJS templating. Features custom short URLs, click tracking, and analytics dashboard.</p>
+<p align="center">A Node.js-based URL shortener service with EJS templating.</p>
 </td>
 </tr>
 </table>
