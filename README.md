@@ -26,36 +26,6 @@ I am pursuing Computer Science at NED University of Engineering and Technology
 
 ---
 
-### 🕵️ Cybersecurity & OSINT Tools
-
-<p align="left">
-<img src="https://img.shields.io/badge/Maigret-OSINT-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Sherlock-OSINT-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Google%20Dorking-Search-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Exploit%20DB-Dorking-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Yandex%20Dorking-Search-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Moriarty%20Project-OSINT-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Ignorant-OSINT-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PhoneInfoga-OSINT-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Holehe-OSINT-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ProxyChains-Networking-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Tor-Browser-purple?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Wget-Tool-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/HTTrack-Web%20Cloning-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Metagoofil-Metadata-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FOCA-Metadata-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/theHarvester-OSINT-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MOSINT-OSINT-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/HaveIBeenPwned-Breach-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DeHashed-Breach-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Uptime--Kuma-Monitoring-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ChangeDetection.io-Monitoring-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Maltego-OSINT-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Recon--ng-OSINT-blue?style=for-the-badge"/>
-</p>
-
----
-
 ### 🌐 Socials
 
 <p align="left">
