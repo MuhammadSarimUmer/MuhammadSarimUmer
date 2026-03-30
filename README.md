@@ -39,11 +39,9 @@
   &nbsp;
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="40" height="40" alt="Flutter" title="Flutter"/>
   &nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" width="40" height="40" alt="Qt" title="Qt"/>
-  &nbsp;
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="40" height="40" alt="MongoDB" title="MongoDB"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=database&logoColor=white" height="40" alt="SQL" title="SQL"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="40" height="40" alt="MySQL / SQL" title="MySQL / SQL"/>
   &nbsp;
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40" height="40" alt="Git" title="Git"/>
 </p>
@@ -59,9 +57,3 @@
 </div>
 
 ---
-
-<div align="center">
-
-⭐️ From [MuhammadSarimUmer](https://github.com/MuhammadSarimUmer)
-
-</div>
