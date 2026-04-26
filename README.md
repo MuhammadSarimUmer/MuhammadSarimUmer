@@ -20,7 +20,7 @@
 ## 🛠️ Skills
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,js,express,nodejs,dart,flutter,c,cpp,postgres,mongodb,prisma,git" alt="Skills Stack" />
+  <img src="https://skillicons.dev/icons?i=python,js,express,nodejs,dart,flutter,c,cpp,postgres,mongodb,git" alt="Skills Stack" />
 </a>
 
 <br/><br/>
