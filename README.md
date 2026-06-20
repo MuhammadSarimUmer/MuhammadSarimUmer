@@ -36,9 +36,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadSarimUmer&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=F59E0B&currStreakLabel=6366F1" />
 
 </div>
-
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
