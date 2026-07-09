@@ -40,9 +40,8 @@
 ---
 
 ## 📈 GitHub Activity
-
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=MuhammadSarimUmer&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=F59E0B&currStreakLabel=6366F1" />
+  <div align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=MuhammadSarimUmer&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=F59E0B&currStreakLabel=6366F1" />
 </div>
 
 <div align="center">
