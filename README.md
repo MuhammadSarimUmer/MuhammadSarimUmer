@@ -24,14 +24,14 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me.
 
 - 🎓 Currently Enrolled In BS **Computer Science & Information Technology** at **NED University of Engineering and Technology**
 - 🧠 Currently learning **AI & ML**
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Skills.
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=python,js,express,nodejs,dart,flutter,c,cpp,postgres,mongodb,git" alt="Skills Stack" />
@@ -39,7 +39,7 @@
 
 ---
 
-## 📈 GitHub Activity
+## 📈 GitHub Activity.
   <div align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=MuhammadSarimUmer&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=F59E0B&currStreakLabel=6366F1" />
 </div>
