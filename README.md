@@ -8,6 +8,10 @@
   <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
 </a>
 &nbsp;
+<a href="https://huggingface.co/MuhammadSarimUmer">
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" height="40" alt="Hugging Face" />
+</a>
+&nbsp;
 <a href="https://leetcode.com/u/Muhammad_Sarim_Umer/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" height="40" style="border-radius:10px" />
 </a>
